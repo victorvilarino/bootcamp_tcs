@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+9
+Victor
+60
+Maria
+40
+Pedro
+39
+Rogerio
+100
+Zinco
+59
+Paula
+30
+Ana
+99
+Julia
+61
+Lucas
+0
+=======
+1990
+2024
+1900
+2000
+2100
+2400
+2023
+2028
+>>>>>>> 76ea857b09b8cb387c393bbd5e7ec9ec2edf077e
