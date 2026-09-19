@@ -30,7 +30,7 @@ df = pd.read_csv("arquivo.csv", sep=";")
 df.head()       # Mostra as 5 primeiras linhas
 df.tail()       # Mostra as 5 últimas linhas
 
-df.shape        # Retorna (quantidade de linhas, quantidade de colunas)
+df.shape        # Retorna (quantidade de linhas, quantidade de coliqueunas)
 df.columns      # Mostra os nomes das colunas
 df.dtypes       # Mostra o tipo de cada coluna
 df.info()       # Resumo geral do DataFrame
@@ -346,4 +346,3 @@ No PowerShell, para verificar a pasta atual:
 ```powershell
 pwd
 ```
-

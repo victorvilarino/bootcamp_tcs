@@ -1,5 +1,6 @@
-lista = [4, 2, 2]
+lista = "valor dois"
 
-# lista_modificada = map(lambda x: int x 2 , lista)
+if lista.split() in "dois":
 
-# print(list(lista_modificada))
+    valor = lista.split()[1]
+    print(valor)

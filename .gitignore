@@ -1,1 +1,9 @@
+# Ambiente virtual
 .venv
+
+# Dados da turma - Ignora todos os CSV
+*.csv
+
+# Python
+__pycache__/
+*.pyc
