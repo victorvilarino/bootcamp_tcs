@@ -17,7 +17,5 @@ df['Semestre/Período'] = df['Semestre/Período'].apply(limpeza_semestre)
 # converte para número
 df[numeric_columns] = df[numeric_columns].apply(pd.to_numeric, errors='coerce')
 
-df[numeric_columns].describe()
-df[numeric_columns].isnull().sum()
-
 print(df[numeric_columns])
+print(df['Idade'].describe())
